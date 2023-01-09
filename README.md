@@ -43,7 +43,10 @@ It's a Eventing Library, where I implement a <b>handleClicked function</b> and i
           <td>If someone hit any of the button than the clicked event is occure and the click event is goes to server side. </td>
         </tr>
         <tr>
-          <td>After click event reach to server side and according to the click event from client side the Event switch case will be run.The switch cases are On, Trigger and Off.</td>
+          <td>After clicked, event will be reach to server side and according to the click event from client side the Event switch case will be run.The switch cases are On, Trigger and Off.</td>
+        </tr>
+          <td>The events like On, Trigger and Off are save to the data base and than print all the events.
+          </td>
         </tr>
       </tbody>    
 </table>
