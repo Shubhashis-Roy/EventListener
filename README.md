@@ -6,7 +6,6 @@
 
 </div>
 
-<hr>
 <h2>Description</h2>
 
 It's an Eventing Library, where I implement a <b>handleClicked function</b> and in the handleClicked function, there are 3 methods. These 3 methods are <b>On</b>, <b>Trigger</b> and <b>Off</b> and I created 3 buttons on the client side Clicked On, Clicked Trigger, and Clicked Off. If someone hits one of these buttons then the response will captured in the backend and printed to the console.
