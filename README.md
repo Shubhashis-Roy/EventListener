@@ -68,12 +68,11 @@ It's an Eventing Library, where I implement a <b>handleClicked function</b> and 
 ### 3. Create a .gitignore file add node-modules, .env .
 ### 4. Run 'npm installl' , it will install all npm packages and dependencies .
 ### 5. Create and setup a app in google developer console and obtain CLIENT_ID and CLIENT_SECRET************
-### 6. 
-### 7. Setup mongodb Atlas database and obtain connection url.
-### 8. Create a .env in config directory inside projects root directory.
-### 9. setup .env variables 
+### 6. Setup mongodb Atlas database and obtain connection url.
+### 7. Create a .env in config directory inside projects root directory.
+### 8. setup .env variables 
 - PORT
 - MONGO_URI
-### 10. Replace baseUrl with your host address (eg:- http://localhost:3000/ ) for Api call in const logEvents = require('./logEvents'); inside root -> frontend-> index.html
-### 11. Run 'npm start' or 'nodemon app.js' to run in development mode.
-### 12. To view the website 'Go Live' from inside root -> frontend -> index.html
+### 9. Replace baseUrl with your host address (eg:- http://localhost:3000/ ) for Api call in const logEvents = require('./logEvents'); inside root -> frontend-> index.html
+### 10. Run 'npm start' or 'nodemon app.js' to run in development mode.
+### 11. To view the website 'Go Live' from inside root -> frontend -> index.html
