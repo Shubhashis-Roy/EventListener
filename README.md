@@ -8,11 +8,12 @@
 
 <hr>
 <h2>Description</h2>
-It's a Eventing Library, where I implement a <b>handleClicked function</b> and in handleClicked function there are 3 methods. These 3 methods are <b>On</b>, <b>Trigger</b> and <b>Off</b> and I create 3 button in client side Clicked On, Clicked Trigger and Clicked Off. If someone hit one of this button than the response will capture in the backend and printed.
+
+It's an Eventing Library, where I implement a <b>handleClicked function</b> and in the handleClicked function, there are 3 methods. These 3 methods are <b>On</b>, <b>Trigger</b> and <b>Off</b> and I created 3 buttons on the client side Clicked On, Clicked Trigger, and Clicked Off. If someone hits one of these buttons then the response will captured in the backend and printed to the console.
 
   
 ### Concepts
-<!-- #### This website is build on three basic concepts -->
+<!-- #### This website is built on three basic concepts -->
 
 - <h3>Server Side</h3>
 - In the server side I implement a function 'handleClicked()' where 3 switch cases 'on', 'off' and 'trigger'. First of all check req.body contain a key or(called action) not then 'req.body.action' is pass through the switch case. Ater that according to request body payload these 3 switch cases would be run. In the 'app.js' file I also implement the mongoDb connection.
